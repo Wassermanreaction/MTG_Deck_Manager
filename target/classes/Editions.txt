@@ -1,0 +1,176 @@
+M21;Core Set 2021
+M20;Core Set 2020
+M19;Core Set 2019
+ORI;Magic: Origins
+10E;Tenth Edition
+9E;Ninth Edition
+DMU;Dominaria United
+DMC;Dominaria United Commander
+SNC;Streets of New Capenna
+NEO;Kamigawa: Neon Dynasty
+NEC;Kamigawa: Neon Dynasty Commander
+VOW;Innistrad: Crimson Vow
+VOC;Innistrad: Crimson Vow Commander
+MID;Innistrad: Midnight Hunt
+MIC;Innistrad: Midnight Hunt Commander
+AFR;Adventures in the Forgotten Realms
+AFC;Adventures in the Forgotten Realms Commander
+MH2;Modern Horizons 2
+STX;Strixhaven: School of Mages
+TSR;Time Spiral Remastered
+KHM;Kaldheim
+ZNR;Zendikar Rising
+IKO;Ikoria: Lair of Behemoths
+THB;Theros Beyond Death
+ELD;Throne of Eldraine
+MH1;Modern Horizons
+WAR;War of the Spark
+RNA;Ravnica Allegiance
+GRN;Guilds of Ravnica
+DOM;Dominaria
+RIX;Rivals of Ixalan
+XLN;Ixalan
+HOU;Hour of Devastation
+AKH;Amonkhet
+AER;Aether Revolt
+KLD;Kaladesh
+EMN;Eldritch Moon
+SOI;Shadows over Innistrad
+OGW;Oath of the Gatewatch
+BFZ;Battle for Zendikar
+DTK;Dragons of Tarkir
+FRF;Fate Reforged
+KTK;Khans of Tarkir
+JOU;Journey into Nyx
+BNG;Born of the Gods
+THS;Theros
+DGM;Dragon's Maze
+GTC;Gatecrash
+RTR;Return to Ravnica
+AVR;Avacyn Restored
+DKA;Dark Ascension
+ISD;Innistrad
+NPH;New Phyrexia
+MBS;Mirrodin Besieged
+SOM;Scars of Mirrodin
+ROE;Rise of the Eldrazi
+WWK;Worldwake
+AR;Alara Reborn
+SA;Shards of Alara
+ET;Eventide
+SM;Shadowmoor
+MT;Morningtide
+LW;Lorwyn
+FS;Future Sight
+PC;Planar Chaos
+TS;Time Spiral
+TST;Time Spiral "Timeshifted"
+DI;Dissension
+GP;Guildpact
+RA;Ravnica: City of Guilds
+M15;Magic 2015
+M14;Magic 2014
+M13;Magic 2013
+M12;Magic 2012
+M11;Magic 2011
+M10;Magic 2010
+8E;Eighth Edition
+7E;Seventh Edition
+6E;Classic Sixth Edition
+5E;5th Edition
+4E;4th Edition
+3E;Revised
+2E;Alpha/Beta/Unlimited
+2X2;Double Masters 2022
+NCC;Streets of New Capenna Commander
+STA;Strixhaven Mystical Archive
+KHC;Kaldheim Commander
+CMR;Commander Legends
+ZNC;Zendikar Rising Commander
+ZNE;Zendikar Rising Expeditions
+2XM;Double Masters
+JMP;Jumpstart
+C20;Ikoria Commander 2020
+C19;Commander 2019
+GS1;Global Series: Jiang Yanggu & Mu Yanling
+UMA;Ultimate Masters
+C18;Commander 2018
+BBD;Battlebond
+DDU;Duel Decks: Elves vs. Inventors
+A25;Masters 25
+IMA;Iconic Masters
+DDT;Duel Decks: Merfolk vs. Goblins
+C17;Commander 2017
+EXP;Zendikar Expeditions
+Masterpiece Series: Amonkhet Invocations
+W17;Welcome Deck 2017
+E01;Archenemy: Nicol Bolas
+CMA;Commander Anthology
+DDC;Duel Decks: Divine vs. Demonic
+DDD;Duel Decks: Garruk vs. Liliana
+DDS;Duel Decks: Mind vs. Might
+MM3;Modern Masters 2017 Edition
+C16;Commander 2016
+W16;Welcome Deck 2016
+Masterpiece Series: Kaladesh Inventions
+PCA;Planechase Anthology
+CN2;Conspiracy: Take the Crown
+EMA;Eternal Masters
+DDQ;Duel Decks: Blessed vs. Cursed
+C15;Commander 2015
+MM2;Modern Masters 2015 Edition
+DDO;Duel Decks: Elspeth vs. Kiora
+C14;Commander 2014
+DDN;Duel Decks: Speed vs. Cunning
+CNS;Conspiracy
+C13;Commander 2013
+DDL;Duel Decks: Heroes vs. Monsters
+MMA;Modern Masters
+PC2;Planechase (2012 Edition)
+CMD;Commander
+ZEN;Zendikar
+PCH;Planechase
+CF;Conflux
+CS;Coldsnap
+SK;Saviors of Kamigawa
+BK;Betrayers of Kamigawa
+CK;Champions of Kamigawa
+FD;Fifth Dawn
+DS;Darksteel
+MR;Mirrodin
+SC;Scourge
+LE;Legions
+ON;Onslaught
+JU;Judgment
+TO;Torment
+OD;Odyssey
+AP;Apocalypse
+PS;Planeshift
+IN;Invasion
+PY;Prophecy
+NE;Nemesis
+MM;Mercadian Masques
+UD;Urza's Destiny
+UL;Urza's Legacy
+US;Urza's Saga
+EX;Exodus
+SH;Stronghold
+TE;Tempest
+WL;Weatherlight
+VI;Visions
+MI;Mirage
+AL;Alliances
+HL;Homelands
+IA;Ice Age
+FE;Fallen Empires
+DK;The Dark
+LG;Legends
+AQ;Antiquities
+AN;Arabian Nights
+ST;Starter
+P1;Portal
+P2;Portal: Second Age
+P3;Portal: Three Kingdoms
+UG;Unglued
+UH;Unhinged
+UST;Unstable
